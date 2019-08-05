@@ -15,25 +15,6 @@
 		5DC2CCAC22F82D4600FCDFD4 /* MultipleAssetsSelection.h in Headers */ = {isa = PBXBuildFile; fileRef = 5DC2CCAA22F82D4600FCDFD4 /* MultipleAssetsSelection.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5DC2CCAF22F82D4600FCDFD4 /* MultipleAssetsSelection.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DC2CCA822F82D4600FCDFD4 /* MultipleAssetsSelection.framework */; };
 		5DC2CCB022F82D4600FCDFD4 /* MultipleAssetsSelection.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 5DC2CCA822F82D4600FCDFD4 /* MultipleAssetsSelection.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		5DC2CCC922F82D6B00FCDFD4 /* es-MX.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CCB522F82D6900FCDFD4 /* es-MX.lproj */; };
-		5DC2CCCA22F82D6B00FCDFD4 /* id.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CCB622F82D6900FCDFD4 /* id.lproj */; };
-		5DC2CCCB22F82D6B00FCDFD4 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DC2CCB722F82D6900FCDFD4 /* MainViewController.swift */; };
-		5DC2CCCC22F82D6B00FCDFD4 /* ar.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CCB822F82D6900FCDFD4 /* ar.lproj */; };
-		5DC2CCCD22F82D6B00FCDFD4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DC2CCB922F82D6900FCDFD4 /* AppDelegate.swift */; };
-		5DC2CCCE22F82D6B00FCDFD4 /* de.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CCBA22F82D6900FCDFD4 /* de.lproj */; };
-		5DC2CCCF22F82D6B00FCDFD4 /* fr.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CCBB22F82D6900FCDFD4 /* fr.lproj */; };
-		5DC2CCD022F82D6B00FCDFD4 /* es.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CCBC22F82D6900FCDFD4 /* es.lproj */; };
-		5DC2CCD122F82D6B00FCDFD4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CCBD22F82D6900FCDFD4 /* Images.xcassets */; };
-		5DC2CCD222F82D6B00FCDFD4 /* ja.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CCBE22F82D6900FCDFD4 /* ja.lproj */; };
-		5DC2CCD322F82D6B00FCDFD4 /* Common in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CCBF22F82D6900FCDFD4 /* Common */; };
-		5DC2CCD422F82D6B00FCDFD4 /* Base.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CCC022F82D6A00FCDFD4 /* Base.lproj */; };
-		5DC2CCD522F82D6B00FCDFD4 /* ru.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CCC122F82D6A00FCDFD4 /* ru.lproj */; };
-		5DC2CCD622F82D6B00FCDFD4 /* zh-Hans.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CCC222F82D6A00FCDFD4 /* zh-Hans.lproj */; };
-		5DC2CCD822F82D6B00FCDFD4 /* tr.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CCC422F82D6A00FCDFD4 /* tr.lproj */; };
-		5DC2CCD922F82D6B00FCDFD4 /* zh-Hant.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CCC522F82D6B00FCDFD4 /* zh-Hant.lproj */; };
-		5DC2CCDA22F82D6B00FCDFD4 /* it.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CCC622F82D6B00FCDFD4 /* it.lproj */; };
-		5DC2CCDB22F82D6B00FCDFD4 /* ko.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CCC722F82D6B00FCDFD4 /* ko.lproj */; };
-		5DC2CCDC22F82D6B00FCDFD4 /* ExampleUsages in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CCC822F82D6B00FCDFD4 /* ExampleUsages */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,25 +52,56 @@
 		5DC2CCA822F82D4600FCDFD4 /* MultipleAssetsSelection.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MultipleAssetsSelection.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DC2CCAA22F82D4600FCDFD4 /* MultipleAssetsSelection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MultipleAssetsSelection.h; sourceTree = "<group>"; };
 		5DC2CCAB22F82D4600FCDFD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5DC2CCB522F82D6900FCDFD4 /* es-MX.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "es-MX.lproj"; sourceTree = "<group>"; };
-		5DC2CCB622F82D6900FCDFD4 /* id.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = id.lproj; sourceTree = "<group>"; };
-		5DC2CCB722F82D6900FCDFD4 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
-		5DC2CCB822F82D6900FCDFD4 /* ar.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ar.lproj; sourceTree = "<group>"; };
-		5DC2CCB922F82D6900FCDFD4 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5DC2CCBA22F82D6900FCDFD4 /* de.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = de.lproj; sourceTree = "<group>"; };
-		5DC2CCBB22F82D6900FCDFD4 /* fr.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = fr.lproj; sourceTree = "<group>"; };
-		5DC2CCBC22F82D6900FCDFD4 /* es.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = es.lproj; sourceTree = "<group>"; };
-		5DC2CCBD22F82D6900FCDFD4 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		5DC2CCBE22F82D6900FCDFD4 /* ja.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ja.lproj; sourceTree = "<group>"; };
-		5DC2CCBF22F82D6900FCDFD4 /* Common */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Common; sourceTree = "<group>"; };
-		5DC2CCC022F82D6A00FCDFD4 /* Base.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Base.lproj; sourceTree = "<group>"; };
-		5DC2CCC122F82D6A00FCDFD4 /* ru.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ru.lproj; sourceTree = "<group>"; };
-		5DC2CCC222F82D6A00FCDFD4 /* zh-Hans.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "zh-Hans.lproj"; sourceTree = "<group>"; };
-		5DC2CCC422F82D6A00FCDFD4 /* tr.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tr.lproj; sourceTree = "<group>"; };
-		5DC2CCC522F82D6B00FCDFD4 /* zh-Hant.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "zh-Hant.lproj"; sourceTree = "<group>"; };
-		5DC2CCC622F82D6B00FCDFD4 /* it.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = it.lproj; sourceTree = "<group>"; };
-		5DC2CCC722F82D6B00FCDFD4 /* ko.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ko.lproj; sourceTree = "<group>"; };
-		5DC2CCC822F82D6B00FCDFD4 /* ExampleUsages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ExampleUsages; sourceTree = "<group>"; };
+		5DC2CCFC22F8422900FCDFD4 /* AssetsPickerCustomStringConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsPickerCustomStringConfig.swift; sourceTree = "<group>"; };
+		5DC2CCFE22F8422900FCDFD4 /* AssetsPickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsPickerViewController.swift; sourceTree = "<group>"; };
+		5DC2CD0022F8422900FCDFD4 /* SSCheckMark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SSCheckMark.swift; sourceTree = "<group>"; };
+		5DC2CD0122F8422900FCDFD4 /* AssetsGuideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsGuideView.swift; sourceTree = "<group>"; };
+		5DC2CD0222F8422900FCDFD4 /* AssetsPickerConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsPickerConfig.swift; sourceTree = "<group>"; };
+		5DC2CD0322F8422900FCDFD4 /* .gitkeep */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		5DC2CD0622F8422900FCDFD4 /* AssetsCropViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsCropViewController.swift; sourceTree = "<group>"; };
+		5DC2CD0922F8422900FCDFD4 /* UIColor+ARGB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+ARGB.swift"; sourceTree = "<group>"; };
+		5DC2CD0A22F8422900FCDFD4 /* UIView+Dimmer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Dimmer.swift"; sourceTree = "<group>"; };
+		5DC2CD0B22F8422900FCDFD4 /* UIView+KVO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+KVO.swift"; sourceTree = "<group>"; };
+		5DC2CD0C22F8422900FCDFD4 /* UIView+Fade.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Fade.swift"; sourceTree = "<group>"; };
+		5DC2CD0E22F8422900FCDFD4 /* TinyLog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TinyLog.swift; sourceTree = "<group>"; };
+		5DC2CD1022F8422900FCDFD4 /* AssetsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsManager.swift; sourceTree = "<group>"; };
+		5DC2CD1122F8422900FCDFD4 /* AssetsManager+Sync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AssetsManager+Sync.swift"; sourceTree = "<group>"; };
+		5DC2CD1222F8422900FCDFD4 /* AssetsUtility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsUtility.swift; sourceTree = "<group>"; };
+		5DC2CD1522F8422900FCDFD4 /* AssetsAlbumViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsAlbumViewController.swift; sourceTree = "<group>"; };
+		5DC2CD1722F8422900FCDFD4 /* AssetsAlbumLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsAlbumLayout.swift; sourceTree = "<group>"; };
+		5DC2CD1822F8422900FCDFD4 /* AssetsAlbumHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsAlbumHeaderView.swift; sourceTree = "<group>"; };
+		5DC2CD1922F8422900FCDFD4 /* AssetsAlbumCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsAlbumCell.swift; sourceTree = "<group>"; };
+		5DC2CD1A22F8422900FCDFD4 /* AssetsAlbumTitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsAlbumTitleView.swift; sourceTree = "<group>"; };
+		5DC2CD1D22F8422900FCDFD4 /* AssetsPreviewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsPreviewController.swift; sourceTree = "<group>"; };
+		5DC2CD1E22F8422900FCDFD4 /* AssetsPhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsPhotoViewController.swift; sourceTree = "<group>"; };
+		5DC2CD2022F8422900FCDFD4 /* PanoramaIconView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PanoramaIconView.swift; sourceTree = "<group>"; };
+		5DC2CD2122F8422900FCDFD4 /* AssetsNoPermissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsNoPermissionView.swift; sourceTree = "<group>"; };
+		5DC2CD2222F8422900FCDFD4 /* AssetsPhotoLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsPhotoLayout.swift; sourceTree = "<group>"; };
+		5DC2CD2322F8422900FCDFD4 /* AssetsPhotoCellOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsPhotoCellOverlay.swift; sourceTree = "<group>"; };
+		5DC2CD2422F8422900FCDFD4 /* AssetsPhotoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsPhotoCell.swift; sourceTree = "<group>"; };
+		5DC2CD2522F8422900FCDFD4 /* AssetsFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsFooterView.swift; sourceTree = "<group>"; };
+		5DC2CD2622F8422900FCDFD4 /* AssetsEmptyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetsEmptyView.swift; sourceTree = "<group>"; };
+		5DC2CD2822F8422900FCDFD4 /* NumberFormatter+AssetsPickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NumberFormatter+AssetsPickerViewController.swift"; sourceTree = "<group>"; };
+		5DC2CD2922F8422900FCDFD4 /* UIScreen+AssetsPickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIScreen+AssetsPickerViewController.swift"; sourceTree = "<group>"; };
+		5DC2CD2A22F8422900FCDFD4 /* UIFont+AssetsPickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIFont+AssetsPickerViewController.swift"; sourceTree = "<group>"; };
+		5DC2CD2B22F8422900FCDFD4 /* String+AssetsPickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+AssetsPickerViewController.swift"; sourceTree = "<group>"; };
+		5DC2CD2C22F8422900FCDFD4 /* Bundle+AssetsPickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle+AssetsPickerViewController.swift"; sourceTree = "<group>"; };
+		5DC2CD2D22F8422900FCDFD4 /* Device+AssetsPickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Device+AssetsPickerViewController.swift"; sourceTree = "<group>"; };
+		5DC2CD3022F8422900FCDFD4 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/AssetsPickerViewController.strings; sourceTree = "<group>"; };
+		5DC2CD3122F8422900FCDFD4 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/AssetsPickerViewController.strings; sourceTree = "<group>"; };
+		5DC2CD3222F8422900FCDFD4 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/AssetsPickerViewController.strings"; sourceTree = "<group>"; };
+		5DC2CD3322F8422900FCDFD4 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/AssetsPickerViewController.strings; sourceTree = "<group>"; };
+		5DC2CD3422F8422900FCDFD4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/AssetsPickerViewController.strings; sourceTree = "<group>"; };
+		5DC2CD3522F8422900FCDFD4 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/AssetsPickerViewController.strings; sourceTree = "<group>"; };
+		5DC2CD3622F8422900FCDFD4 /* .gitkeep */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		5DC2CD3722F8422900FCDFD4 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/AssetsPickerViewController.strings; sourceTree = "<group>"; };
+		5DC2CD3822F8422900FCDFD4 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/AssetsPickerViewController.strings"; sourceTree = "<group>"; };
+		5DC2CD3922F8422900FCDFD4 /* hi-IN */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "hi-IN"; path = "hi-IN.lproj/AssetsPickerViewController.strings"; sourceTree = "<group>"; };
+		5DC2CD3A22F8422900FCDFD4 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/AssetsPickerViewController.strings; sourceTree = "<group>"; };
+		5DC2CD3B22F8422900FCDFD4 /* es-MX */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-MX"; path = "es-MX.lproj/AssetsPickerViewController.strings"; sourceTree = "<group>"; };
+		5DC2CD3C22F8422900FCDFD4 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/AssetsPickerViewController.strings; sourceTree = "<group>"; };
+		5DC2CD3D22F8422900FCDFD4 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/AssetsPickerViewController.strings; sourceTree = "<group>"; };
+		5DC2CD3E22F8422900FCDFD4 /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/AssetsPickerViewController.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,29 +157,199 @@
 		5DC2CCA922F82D4600FCDFD4 /* MultipleAssetsSelection */ = {
 			isa = PBXGroup;
 			children = (
-				5DC2CCB922F82D6900FCDFD4 /* AppDelegate.swift */,
-				5DC2CCC022F82D6A00FCDFD4 /* Base.lproj */,
-				5DC2CCBF22F82D6900FCDFD4 /* Common */,
-				5DC2CCBA22F82D6900FCDFD4 /* de.lproj */,
-				5DC2CCB522F82D6900FCDFD4 /* es-MX.lproj */,
-				5DC2CCBC22F82D6900FCDFD4 /* es.lproj */,
-				5DC2CCC822F82D6B00FCDFD4 /* ExampleUsages */,
-				5DC2CCBB22F82D6900FCDFD4 /* fr.lproj */,
-				5DC2CCB622F82D6900FCDFD4 /* id.lproj */,
-				5DC2CCBD22F82D6900FCDFD4 /* Images.xcassets */,
-				5DC2CCB822F82D6900FCDFD4 /* ar.lproj */,
-				5DC2CCC622F82D6B00FCDFD4 /* it.lproj */,
-				5DC2CCBE22F82D6900FCDFD4 /* ja.lproj */,
-				5DC2CCC722F82D6B00FCDFD4 /* ko.lproj */,
-				5DC2CCB722F82D6900FCDFD4 /* MainViewController.swift */,
-				5DC2CCC122F82D6A00FCDFD4 /* ru.lproj */,
-				5DC2CCC422F82D6A00FCDFD4 /* tr.lproj */,
-				5DC2CCC222F82D6A00FCDFD4 /* zh-Hans.lproj */,
-				5DC2CCC522F82D6B00FCDFD4 /* zh-Hant.lproj */,
+				5DC2CCF922F8422900FCDFD4 /* AssetsPickerViewController */,
 				5DC2CCAA22F82D4600FCDFD4 /* MultipleAssetsSelection.h */,
 				5DC2CCAB22F82D4600FCDFD4 /* Info.plist */,
 			);
 			path = MultipleAssetsSelection;
+			sourceTree = "<group>";
+		};
+		5DC2CCF922F8422900FCDFD4 /* AssetsPickerViewController */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CCFA22F8422900FCDFD4 /* Classes */,
+				5DC2CD2E22F8422900FCDFD4 /* Assets */,
+			);
+			path = AssetsPickerViewController;
+			sourceTree = "<group>";
+		};
+		5DC2CCFA22F8422900FCDFD4 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CCFB22F8422900FCDFD4 /* Picker */,
+				5DC2CD0322F8422900FCDFD4 /* .gitkeep */,
+				5DC2CD0422F8422900FCDFD4 /* Crop */,
+				5DC2CD0722F8422900FCDFD4 /* Library */,
+				5DC2CD0F22F8422900FCDFD4 /* Assets */,
+				5DC2CD1322F8422900FCDFD4 /* Album */,
+				5DC2CD1B22F8422900FCDFD4 /* Photo */,
+				5DC2CD2722F8422900FCDFD4 /* Utility */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		5DC2CCFB22F8422900FCDFD4 /* Picker */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CCFC22F8422900FCDFD4 /* AssetsPickerCustomStringConfig.swift */,
+				5DC2CCFD22F8422900FCDFD4 /* Controller */,
+				5DC2CCFF22F8422900FCDFD4 /* View */,
+				5DC2CD0222F8422900FCDFD4 /* AssetsPickerConfig.swift */,
+			);
+			path = Picker;
+			sourceTree = "<group>";
+		};
+		5DC2CCFD22F8422900FCDFD4 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CCFE22F8422900FCDFD4 /* AssetsPickerViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		5DC2CCFF22F8422900FCDFD4 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CD0022F8422900FCDFD4 /* SSCheckMark.swift */,
+				5DC2CD0122F8422900FCDFD4 /* AssetsGuideView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		5DC2CD0422F8422900FCDFD4 /* Crop */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CD0522F8422900FCDFD4 /* Controller */,
+			);
+			path = Crop;
+			sourceTree = "<group>";
+		};
+		5DC2CD0522F8422900FCDFD4 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CD0622F8422900FCDFD4 /* AssetsCropViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		5DC2CD0722F8422900FCDFD4 /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CD0822F8422900FCDFD4 /* Extensions */,
+				5DC2CD0D22F8422900FCDFD4 /* TinyLog */,
+			);
+			path = Library;
+			sourceTree = "<group>";
+		};
+		5DC2CD0822F8422900FCDFD4 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CD0922F8422900FCDFD4 /* UIColor+ARGB.swift */,
+				5DC2CD0A22F8422900FCDFD4 /* UIView+Dimmer.swift */,
+				5DC2CD0B22F8422900FCDFD4 /* UIView+KVO.swift */,
+				5DC2CD0C22F8422900FCDFD4 /* UIView+Fade.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		5DC2CD0D22F8422900FCDFD4 /* TinyLog */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CD0E22F8422900FCDFD4 /* TinyLog.swift */,
+			);
+			path = TinyLog;
+			sourceTree = "<group>";
+		};
+		5DC2CD0F22F8422900FCDFD4 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CD1022F8422900FCDFD4 /* AssetsManager.swift */,
+				5DC2CD1122F8422900FCDFD4 /* AssetsManager+Sync.swift */,
+				5DC2CD1222F8422900FCDFD4 /* AssetsUtility.swift */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		5DC2CD1322F8422900FCDFD4 /* Album */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CD1422F8422900FCDFD4 /* Controller */,
+				5DC2CD1622F8422900FCDFD4 /* View */,
+			);
+			path = Album;
+			sourceTree = "<group>";
+		};
+		5DC2CD1422F8422900FCDFD4 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CD1522F8422900FCDFD4 /* AssetsAlbumViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		5DC2CD1622F8422900FCDFD4 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CD1722F8422900FCDFD4 /* AssetsAlbumLayout.swift */,
+				5DC2CD1822F8422900FCDFD4 /* AssetsAlbumHeaderView.swift */,
+				5DC2CD1922F8422900FCDFD4 /* AssetsAlbumCell.swift */,
+				5DC2CD1A22F8422900FCDFD4 /* AssetsAlbumTitleView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		5DC2CD1B22F8422900FCDFD4 /* Photo */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CD1C22F8422900FCDFD4 /* Controller */,
+				5DC2CD1F22F8422900FCDFD4 /* View */,
+			);
+			path = Photo;
+			sourceTree = "<group>";
+		};
+		5DC2CD1C22F8422900FCDFD4 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CD1D22F8422900FCDFD4 /* AssetsPreviewController.swift */,
+				5DC2CD1E22F8422900FCDFD4 /* AssetsPhotoViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		5DC2CD1F22F8422900FCDFD4 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CD2022F8422900FCDFD4 /* PanoramaIconView.swift */,
+				5DC2CD2122F8422900FCDFD4 /* AssetsNoPermissionView.swift */,
+				5DC2CD2222F8422900FCDFD4 /* AssetsPhotoLayout.swift */,
+				5DC2CD2322F8422900FCDFD4 /* AssetsPhotoCellOverlay.swift */,
+				5DC2CD2422F8422900FCDFD4 /* AssetsPhotoCell.swift */,
+				5DC2CD2522F8422900FCDFD4 /* AssetsFooterView.swift */,
+				5DC2CD2622F8422900FCDFD4 /* AssetsEmptyView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		5DC2CD2722F8422900FCDFD4 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CD2822F8422900FCDFD4 /* NumberFormatter+AssetsPickerViewController.swift */,
+				5DC2CD2922F8422900FCDFD4 /* UIScreen+AssetsPickerViewController.swift */,
+				5DC2CD2A22F8422900FCDFD4 /* UIFont+AssetsPickerViewController.swift */,
+				5DC2CD2B22F8422900FCDFD4 /* String+AssetsPickerViewController.swift */,
+				5DC2CD2C22F8422900FCDFD4 /* Bundle+AssetsPickerViewController.swift */,
+				5DC2CD2D22F8422900FCDFD4 /* Device+AssetsPickerViewController.swift */,
+			);
+			path = Utility;
+			sourceTree = "<group>";
+		};
+		5DC2CD2E22F8422900FCDFD4 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				5DC2CD2F22F8422900FCDFD4 /* AssetsPickerViewController.strings */,
+				5DC2CD3622F8422900FCDFD4 /* .gitkeep */,
+			);
+			path = Assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -247,6 +429,19 @@
 			knownRegions = (
 				en,
 				Base,
+				de,
+				ar,
+				"zh-Hans",
+				ja,
+				es,
+				ko,
+				"zh-Hant",
+				"hi-IN",
+				tr,
+				"es-MX",
+				ru,
+				fr,
+				id,
 			);
 			mainGroup = 5DC2CC8522F82D1600FCDFD4;
 			productRefGroup = 5DC2CC8F22F82D1600FCDFD4 /* Products */;
@@ -274,23 +469,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5DC2CCD222F82D6B00FCDFD4 /* ja.lproj in Resources */,
-				5DC2CCCA22F82D6B00FCDFD4 /* id.lproj in Resources */,
-				5DC2CCD422F82D6B00FCDFD4 /* Base.lproj in Resources */,
-				5DC2CCD022F82D6B00FCDFD4 /* es.lproj in Resources */,
-				5DC2CCD122F82D6B00FCDFD4 /* Images.xcassets in Resources */,
-				5DC2CCDC22F82D6B00FCDFD4 /* ExampleUsages in Resources */,
-				5DC2CCCC22F82D6B00FCDFD4 /* ar.lproj in Resources */,
-				5DC2CCDB22F82D6B00FCDFD4 /* ko.lproj in Resources */,
-				5DC2CCD322F82D6B00FCDFD4 /* Common in Resources */,
-				5DC2CCD622F82D6B00FCDFD4 /* zh-Hans.lproj in Resources */,
-				5DC2CCCE22F82D6B00FCDFD4 /* de.lproj in Resources */,
-				5DC2CCCF22F82D6B00FCDFD4 /* fr.lproj in Resources */,
-				5DC2CCDA22F82D6B00FCDFD4 /* it.lproj in Resources */,
-				5DC2CCD522F82D6B00FCDFD4 /* ru.lproj in Resources */,
-				5DC2CCD822F82D6B00FCDFD4 /* tr.lproj in Resources */,
-				5DC2CCC922F82D6B00FCDFD4 /* es-MX.lproj in Resources */,
-				5DC2CCD922F82D6B00FCDFD4 /* zh-Hant.lproj in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,8 +488,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5DC2CCCD22F82D6B00FCDFD4 /* AppDelegate.swift in Sources */,
-				5DC2CCCB22F82D6B00FCDFD4 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -340,6 +516,27 @@
 				5DC2CC9B22F82D1700FCDFD4 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		5DC2CD2F22F8422900FCDFD4 /* AssetsPickerViewController.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5DC2CD3022F8422900FCDFD4 /* de */,
+				5DC2CD3122F8422900FCDFD4 /* ar */,
+				5DC2CD3222F8422900FCDFD4 /* zh-Hans */,
+				5DC2CD3322F8422900FCDFD4 /* ja */,
+				5DC2CD3422F8422900FCDFD4 /* en */,
+				5DC2CD3522F8422900FCDFD4 /* es */,
+				5DC2CD3722F8422900FCDFD4 /* ko */,
+				5DC2CD3822F8422900FCDFD4 /* zh-Hant */,
+				5DC2CD3922F8422900FCDFD4 /* hi-IN */,
+				5DC2CD3A22F8422900FCDFD4 /* tr */,
+				5DC2CD3B22F8422900FCDFD4 /* es-MX */,
+				5DC2CD3C22F8422900FCDFD4 /* ru */,
+				5DC2CD3D22F8422900FCDFD4 /* fr */,
+				5DC2CD3E22F8422900FCDFD4 /* id */,
+			);
+			name = AssetsPickerViewController.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -464,7 +661,6 @@
 		5DC2CCA122F82D1700FCDFD4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = MultipleMediaDemo/Info.plist;
@@ -482,7 +678,6 @@
 		5DC2CCA222F82D1700FCDFD4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = MultipleMediaDemo/Info.plist;
