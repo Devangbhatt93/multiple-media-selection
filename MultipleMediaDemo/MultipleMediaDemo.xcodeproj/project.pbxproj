@@ -20,7 +20,6 @@
 		5DC2CD8622F844E500FCDFD4 /* SSCheckMark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DC2CD4522F844E500FCDFD4 /* SSCheckMark.swift */; };
 		5DC2CD8722F844E500FCDFD4 /* AssetsGuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DC2CD4622F844E500FCDFD4 /* AssetsGuideView.swift */; };
 		5DC2CD8822F844E500FCDFD4 /* AssetsPickerConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DC2CD4722F844E500FCDFD4 /* AssetsPickerConfig.swift */; };
-		5DC2CD8922F844E500FCDFD4 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CD4822F844E500FCDFD4 /* .gitkeep */; };
 		5DC2CD8A22F844E500FCDFD4 /* AssetsCropViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DC2CD4B22F844E500FCDFD4 /* AssetsCropViewController.swift */; };
 		5DC2CD8B22F844E500FCDFD4 /* UIColor+ARGB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DC2CD4E22F844E500FCDFD4 /* UIColor+ARGB.swift */; };
 		5DC2CD8C22F844E500FCDFD4 /* UIView+Dimmer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DC2CD4F22F844E500FCDFD4 /* UIView+Dimmer.swift */; };
@@ -51,7 +50,6 @@
 		5DC2CDA522F844E500FCDFD4 /* Bundle+AssetsPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DC2CD7122F844E500FCDFD4 /* Bundle+AssetsPickerViewController.swift */; };
 		5DC2CDA622F844E500FCDFD4 /* Device+AssetsPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DC2CD7222F844E500FCDFD4 /* Device+AssetsPickerViewController.swift */; };
 		5DC2CDA722F844E500FCDFD4 /* AssetsPickerViewController.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CD7422F844E500FCDFD4 /* AssetsPickerViewController.strings */; };
-		5DC2CDA822F844E500FCDFD4 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 5DC2CD7B22F844E500FCDFD4 /* .gitkeep */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -94,7 +92,6 @@
 		5DC2CD4522F844E500FCDFD4 /* SSCheckMark.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SSCheckMark.swift; sourceTree = "<group>"; };
 		5DC2CD4622F844E500FCDFD4 /* AssetsGuideView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AssetsGuideView.swift; sourceTree = "<group>"; };
 		5DC2CD4722F844E500FCDFD4 /* AssetsPickerConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AssetsPickerConfig.swift; sourceTree = "<group>"; };
-		5DC2CD4822F844E500FCDFD4 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
 		5DC2CD4B22F844E500FCDFD4 /* AssetsCropViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AssetsCropViewController.swift; sourceTree = "<group>"; };
 		5DC2CD4E22F844E500FCDFD4 /* UIColor+ARGB.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+ARGB.swift"; sourceTree = "<group>"; };
 		5DC2CD4F22F844E500FCDFD4 /* UIView+Dimmer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Dimmer.swift"; sourceTree = "<group>"; };
@@ -130,7 +127,6 @@
 		5DC2CD7822F844E500FCDFD4 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/AssetsPickerViewController.strings; sourceTree = "<group>"; };
 		5DC2CD7922F844E500FCDFD4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/AssetsPickerViewController.strings; sourceTree = "<group>"; };
 		5DC2CD7A22F844E500FCDFD4 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/AssetsPickerViewController.strings; sourceTree = "<group>"; };
-		5DC2CD7B22F844E500FCDFD4 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
 		5DC2CD7C22F844E500FCDFD4 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/AssetsPickerViewController.strings; sourceTree = "<group>"; };
 		5DC2CD7D22F844E500FCDFD4 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/AssetsPickerViewController.strings"; sourceTree = "<group>"; };
 		5DC2CD7E22F844E500FCDFD4 /* hi-IN */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "hi-IN"; path = "hi-IN.lproj/AssetsPickerViewController.strings"; sourceTree = "<group>"; };
@@ -214,7 +210,6 @@
 			isa = PBXGroup;
 			children = (
 				5DC2CD4022F844E500FCDFD4 /* Picker */,
-				5DC2CD4822F844E500FCDFD4 /* .gitkeep */,
 				5DC2CD4922F844E500FCDFD4 /* Crop */,
 				5DC2CD4C22F844E500FCDFD4 /* Library */,
 				5DC2CD5422F844E500FCDFD4 /* Assets */,
@@ -384,7 +379,6 @@
 			isa = PBXGroup;
 			children = (
 				5DC2CD7422F844E500FCDFD4 /* AssetsPickerViewController.strings */,
-				5DC2CD7B22F844E500FCDFD4 /* .gitkeep */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
@@ -506,9 +500,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5DC2CDA822F844E500FCDFD4 /* .gitkeep in Resources */,
 				5DC2CDA722F844E500FCDFD4 /* AssetsPickerViewController.strings in Resources */,
-				5DC2CD8922F844E500FCDFD4 /* .gitkeep in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
