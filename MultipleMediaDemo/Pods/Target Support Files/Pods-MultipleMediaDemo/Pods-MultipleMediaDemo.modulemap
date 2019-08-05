@@ -1,0 +1,6 @@
+framework module Pods_MultipleMediaDemo {
+  umbrella header "Pods-MultipleMediaDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
