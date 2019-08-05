@@ -41,17 +41,17 @@ open class AssetsPickerViewController: UINavigationController {
     
     public private(set) var photoViewController: AssetsPhotoViewController!
     
-    required public init?(coder aDecoder: NSCoder) {
+    required open init?(coder aDecoder: NSCoder) {
         super.init(coder: aDecoder)
         commonInit()
     }
     
-    override public init(nibName nibNameOrNil: String?, bundle nibBundleOrNil: Bundle?) {
+    override open init(nibName nibNameOrNil: String?, bundle nibBundleOrNil: Bundle?) {
         super.init(nibName: nibNameOrNil, bundle: nibBundleOrNil)
         commonInit()
     }
     
-    public convenience init() {
+    open convenience init() {
         self.init(nibName: nil, bundle: nil)
     }
     
